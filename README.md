@@ -1,6 +1,6 @@
 # Projet pour Clara
 
-##Ce qui l'aiderait
+## Ce qui l'aiderait
 faire une recherche par type de mobilier ex: tracole, et voit le listing de toutes les sortes
 
 Sur le terrain ils ont:
@@ -17,7 +17,7 @@ Sur le terrain ils ont:
      - nouvelles: appartient à des sociétés privées ou à l'Etat qui va les distribuer entre les différents musées, dépôts,...: cela dépend de la valeur archéologique.
        
        
-##1. Remplissage des différentes fiches
+## 1. Remplissage des différentes fiches
 
 Il y a différents types de fiche qui sont effectués dans cet ordre:
 - Site de fouille
@@ -26,7 +26,7 @@ Il y a différents types de fiche qui sont effectués dans cet ordre:
 - US (unités stratigraphiques)
 - Objets
 
-###1.1. Fiches de site
+### 1.1. Fiches de site
 
 Elles sont composées de ces infos à remplir:
 - Dates de fouilles
@@ -36,12 +36,12 @@ Elles sont composées de ces infos à remplir:
 - N° US
 - N°de Faits
 
-###1.2. Fiches Secteur
+### 1.2. Fiches Secteur
 
 Géoréférences
 ex: Couche avec pièce Napoléon : la couche du dessous demande ...
 
-###1.3. Fiches US
+### 1.3. Fiches US
 
 Renseignent sur toutes les couches archéologiques du sol. Ex: Couche untel, autant de céramiques. On groupe les découvertes.
 
@@ -58,7 +58,7 @@ Composées de :
 - Nom du site
 - Directeur.ice de chantier
 
-###1.4. Fiches de Faits
+### 1.4. Fiches de Faits
 
 On appelle Fait, un fait archéologique comme des fosses, sablière, bûcher funéraire,...
 
@@ -81,7 +81,7 @@ Composées de :
 - Dessin des faits
 - Photos
 
-###1.5. Fiches Objets
+### 1.5. Fiches Objets
 Pour les beaux objets ou objets riches d'un point de vue scientifique, on va les individualiser.
 
 Composée:
@@ -100,7 +100,7 @@ Composée:
 - coordonnées X,Y,Z point de vue géospatial (altitude, longitude, latitude)
 - remarques
 
-##2. Dessins
+## 2. Dessins
 
 Une fois les fiches remplies, il faut faire les différents dessins
 1. N° Dessin
